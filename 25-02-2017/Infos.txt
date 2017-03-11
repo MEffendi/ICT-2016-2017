@@ -1,0 +1,1 @@
+We've added the functions 'Seek.Vert' and 'Seek.Horiz', with some little exercises.
