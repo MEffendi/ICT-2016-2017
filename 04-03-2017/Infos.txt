@@ -1,0 +1,1 @@
+We've added the function "Left", "Right", and "String.Get", and trying to use them on some exercises to split some warehouse codes.
