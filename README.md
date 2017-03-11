@@ -1,4 +1,4 @@
-# ICT-2016-2017
+# ICT-2016-2017 [![Telegram](https://img.shields.io/badge/Telegram-@iDoppioclick-blue.svg?style=flat)](https://t.me/iDoppioclick)
 Repo where I'll put all files of the 2016-2017 ICT's lessons.
 
 ### General Infos
