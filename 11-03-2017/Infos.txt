@@ -1,0 +1,1 @@
+We've added the "IF" function, combined with, as example, the calculation of the taxes to pay based on the incomes.
