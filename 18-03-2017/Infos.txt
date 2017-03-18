@@ -1,0 +1,1 @@
+We've corrected the previous' week exercise, and we did another one using the "IF" function.
