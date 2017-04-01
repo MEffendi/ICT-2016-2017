@@ -9,7 +9,7 @@ Inside these folders there will be the files and a small .txt file, where I'll p
 If (for some akward reasons) You want to clone the repo on your server, You just only have to do these commands:
 
     $ sudo apt-get install git
-    $ git clone github.com/iDoppioclick/ICT-2016-2017.git
+    $ git clone github.com/MattiaEffendi/ICT-2016-2017.git
     $ cd ICT-2016-2017
     
 To update the repo with the new files, just run this simple command:
