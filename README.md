@@ -17,4 +17,4 @@ To update the repo with the new files, just run this simple command:
     $ git pull
 
 ### License
-Licensed under [MIT](https://opensource.org/licenses/MIT), created by iDoppioclick - 2016/2017
+Licensed under [MIT](https://opensource.org/licenses/MIT), created by Mattia Effendi - 2016/2017
